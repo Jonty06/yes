@@ -1,0 +1,34 @@
+
+  .qanda-container {
+    background-color: black;
+    color: white;
+    padding:10px ;
+    
+  }
+  
+  .qanda-heading {
+    text-align: center;
+    color: white;
+    font-size: 80px;
+    margin-top: 30px;
+    font-weight: 400px;
+  }
+  
+  .qanda-content {
+    margin-top: 20px;
+  }
+  
+  .qanda-item {
+    /* margin-bottom: 20px; */
+    background: black;
+    
+  }
+  
+  .question {
+    font-size: 25px;
+    padding: 30px;
+    font-weight:lighter;
+    color: white;
+    margin-left: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }

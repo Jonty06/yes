@@ -1,0 +1,31 @@
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    
+
+  }
+  
+  .button {
+    
+    background-color: rgb(20, 19, 19);
+    color: white;
+    padding: 30px 50px;
+    border: solid black;
+    margin-right: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    text-transform: capitalize ;
+    font-size: 20px;
+    
+     
+  }
+  
+  .button.hovered {
+    background-color: white;
+    color: black;
+  }
